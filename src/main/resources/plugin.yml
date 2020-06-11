@@ -1,0 +1,9 @@
+name: BackupStaffChat
+version: ${project.version}
+main: me.border.backupstaffchat.BackupStaffChat
+api-version: 1.13
+authors: [MrBorder]
+commands:
+  backupstaffchat:
+    aliases: [bsc, sc, s]
+  togglestaffchat:
